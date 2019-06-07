@@ -12,7 +12,6 @@ My Java project
 ## 扫雷
 扫雷游戏实现了随机布雷、开始游戏、游戏计时、成绩记录以及自定义难度等功能，玩法与经典的Windows XP扫雷完全一致。
 
-![image](截图/0.png)
 ![image](截图/1.png)
 ![image](截图/2.png)
 ![image](截图/3.png)
